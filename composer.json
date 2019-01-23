@@ -1,0 +1,13 @@
+{
+    "name": "optilab/wp-meta-box-builder",
+    "description": "Create object oriented WordPress metaboxes",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Hitankar Ray",
+            "email": "hitankar@gmail.com"
+        }
+    ],
+    "require": {}
+}
