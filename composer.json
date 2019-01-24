@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Optilab\\WPMetaBoxBuilder": "app/"
+            "Optilab\\WPMetaBoxBuilder\\": "app/"
         }
     },
     "require": {}
