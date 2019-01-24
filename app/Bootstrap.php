@@ -1,5 +1,5 @@
 <?php
-namespace WPMetaBoxBuilder;
+namespace Optilab\WPMetaBoxBuilder;
 /**
  * Bootstrap abstract class for creating editable sections in a template specific post/page
  **/

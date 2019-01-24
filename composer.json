@@ -9,5 +9,10 @@
             "email": "hitankar@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Optilab\\WPMetaBoxBuilder": "app/"
+        }
+    },
     "require": {}
 }

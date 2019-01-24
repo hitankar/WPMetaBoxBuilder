@@ -1,5 +1,5 @@
 <?php
-namespace WPMetaBoxBuilder;
+namespace Optilab\WPMetaBoxBuilder;
 
 /**
  *  Implement Template Specific MetaBoxes
