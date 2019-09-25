@@ -30,6 +30,10 @@ abstract class Bootstrap
     if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) {
         return;
     }
+    
+    if ( defined( 'DOING_CRON' ) && DOING_CRON ) {
+        return;
+    }
 
     if ( wp_is_post_revision( $post_id ) ) {
         $post_id = wp_is_post_revision($post_id);
